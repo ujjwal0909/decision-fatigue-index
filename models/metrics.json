@@ -1,0 +1,7 @@
+{
+  "backend": "HistGradientBoostingRegressor",
+  "mae": 2.4800498048232797,
+  "r2": 0.958594698100973,
+  "n_train": 1272,
+  "n_test": 318
+}
